@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk) ;
+}
+
+/* FOR YOUR RESULT  */
+.result{
+    width: 250px;
+    height: 350px;
+background-color:rgb(107, 43, 226);
+}
+.circle-container{
+    background-color: rgb(117, 49, 228);
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+Family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
+- Weights: 500, 700, 800
